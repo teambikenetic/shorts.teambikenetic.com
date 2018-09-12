@@ -1,4 +1,4 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 <title>Team Bikenetic Bicycle Shorts</title>
 <link>https://www.instagram.com/teambikenetic/</link>
@@ -15,7 +15,7 @@ Team Bikenetic races mountain bike and cyclocross race events in the mid-Atlanti
 <language>en-us</language>
 <copyright>Team Bikenetic copyright 2018</copyright>
 <atom:link href="https://s3.amazonaws.com/shorts.teambikenetic.com/podcast.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 12 Sep 2018 00:05:00 UTC</lastBuildDate>
+<lastBuildDate>Wed, 12 Sep 2018 05:00:00 UTC</lastBuildDate>
 <itunes:author>Team Bikenetic</itunes:author>
 <itunes:summary>
 Team Bikenetic races mountain bike and cyclocross race events in the mid-Atlantic USA. We aim to briefly cover happenings with the team, pointing out other interesting media sources, and quick highlights of things we've come across or are excited about. Public podcast but oriented around team interests and events.
@@ -33,14 +33,14 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
 <rawvoice:rating>TV-G</rawvoice:rating>
 <rawvoice:location>Falls Church, VA</rawvoice:location>
 <rawvoice:frequency>Weekly</rawvoice:frequency>
-<itunes:category text="Sports & Recreation"/>
-<pubDate>Wed, 12 Sep 2018 00:05:00 UTC</pubDate>
+<itunes:category text="Sports &#038;Recreation"/>
+<pubDate>Wed, 12 Sep 2018 05:00:00 UTC</pubDate>
 <item>
     <title>TB BS #1, race season kicks off</title>
     <link>
         https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs1.m4a
     </link>
-    <pubDate>Wed, 12 Sep 2018 00:05:00 UTC</pubDate>
+    <pubDate>Wed, 12 Sep 2018 05:00:00 UTC</pubDate>
     <description>
         Quick overview of last week's races, upcoming races and openings in the mid-atlantic area, and a good overview of pro results from Robert.
     </description>
