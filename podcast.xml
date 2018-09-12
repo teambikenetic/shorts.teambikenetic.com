@@ -1,3 +1,40 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+<channel>
+<title>Team Bikenetic Bicycle Shorts</title>
+<link>https://www.instagram.com/teambikenetic/</link>
+<image>
+<url>
+https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg
+</url>
+<title>Team Bikenetic Bicycle Shorts</title>
+<link>https://www.instagram.com/teambikenetic/</link>
+</image>
+<description>
+Team Bikenetic races mountain bike and cyclocross race events in the mid-Atlantic USA. We aim to briefly cover happenings with the team, pointing out other interesting media sources, and quick highlights of things we've come across or are excited about. Public podcast but oriented around team interests and events.
+</description>
+<language>en-us</language>
+<copyright>Team Bikenetic copyright 2018</copyright>
+<atom:link href="https://s3.amazonaws.com/shorts.teambikenetic.com/podcast.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Wed, 12 Sep 2018 00:05:00 UTC</lastBuildDate>
+<itunes:author>Team Bikenetic</itunes:author>
+<itunes:summary>
+Team Bikenetic races mountain bike and cyclocross race events in the mid-Atlantic USA. We aim to briefly cover happenings with the team, pointing out other interesting media sources, and quick highlights of things we've come across or are excited about. Public podcast but oriented around team interests and events.
+</itunes:summary>
+<itunes:subtitle>Mountain bike and cyclocross racing in the mid-Atlantic USA</itunes:subtitle>
+<itunes:owner>
+<itunes:name>Team Bikenetic</itunes:name>
+<itunes:email>shorts@teambikenetic.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>
+cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountain biking
+</itunes:keywords>
+<itunes:image href="http://podcasts.thepolyglotdeveloper.com/images/the-polyglot-developer-podcast.png"/>
+<rawvoice:rating>TV-G</rawvoice:rating>
+<rawvoice:location>Falls Church, VA</rawvoice:location>
+<rawvoice:frequency>Weekly</rawvoice:frequency>
+<itunes:category text="Sports & Recreation"/>
+<pubDate>Wed, 12 Sep 2018 00:05:00 UTC</pubDate>
 <item>
     <title>TB BS #1, race season kicks off</title>
     <link>
@@ -21,3 +58,5 @@
     </itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
 </item>
+</channel>
+</rss>
