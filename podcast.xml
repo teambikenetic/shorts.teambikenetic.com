@@ -109,5 +109,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #4, hyattsville and watch out for craziness at moco epic</title>
+    <link>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs4.m4a
+    </link>
+    <pubDate>Fri, 5 Oct 2018 02:00:00 GMT</pubDate>
+    <description>
+        Hyattsville re-cap, and looking forward to Charm City and Moco Epic this weekend.
+    </description>
+    <enclosure url="https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs4.m4a" length="2950809" type="audio/m4a"/>
+    <guid>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs4.m4a
+    </guid>
+    <itunes:duration>1:29</itunes:duration>
+    <itunes:summary>
+        Hyattsville re-cap, and looking forward to Charm City and Moco Epic this weekend.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        moco epic,charm city,hyattsville cx,mud,trek cx,cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
