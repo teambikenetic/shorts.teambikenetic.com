@@ -181,5 +181,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #7, scott thompson on tacchino cx</title>
+    <link>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs7.m4a
+    </link>
+    <pubDate>Thu, 25 Oct 2018 16:41:00 GMT</pubDate>
+    <description>
+        DCCX coverage, interview with Scott Thompson about Tacchino CX.
+    </description>
+    <enclosure url="https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs7.m4a" length="11298633" type="audio/m4a"/>
+    <guid>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs7.m4a
+    </guid>
+    <itunes:duration>5:47</itunes:duration>
+    <itunes:summary>
+        DCCX coverage, interview with Scott Thompson about Tacchino CX.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        dccx,training,tacchino,biketoberfest,salamander resort,mud,lost dog rescue,cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
