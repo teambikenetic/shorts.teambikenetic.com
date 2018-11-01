@@ -205,5 +205,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #8, lucas beirne on ed sander memorial cx</title>
+    <link>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs8.m4a
+    </link>
+    <pubDate>Thu, 01 Nov 2018 18:41:00 GMT</pubDate>
+    <description>
+        Biketoberfest and Tacchino coverage, interview with Lucas Beirne about Ed Sander Memorial CX.
+    </description>
+    <enclosure url="https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs8.m4a" length="19913767" type="audio/m4a"/>
+    <guid>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs8.m4a
+    </guid>
+    <itunes:duration>5:24</itunes:duration>
+    <itunes:summary>
+        Biketoberfest and Tacchino coverage, interview with Lucas Beirne about Ed Sander Memorial CX.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        training,tacchino,ed sander,feedback sports,take aim,handup gloves,biketoberfest,mud,rebecca rusch,cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,ncvc
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
