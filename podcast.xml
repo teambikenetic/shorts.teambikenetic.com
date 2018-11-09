@@ -229,5 +229,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #9, no mattresses were burned</title>
+    <link>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs9.m4a
+    </link>
+    <pubDate>Fri, 09 Nov 2018 18:41:00 GMT</pubDate>
+    <description>
+        Bike Doctor CX and Ed Sander Memorial coverage, info on our upcoming BikeneticX race.
+    </description>
+    <enclosure url="https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs9.m4a" length="5144778" type="audio/m4a"/>
+    <guid>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs9.m4a
+    </guid>
+    <itunes:duration>2:37</itunes:duration>
+    <itunes:summary>
+        Bike Doctor CX and Ed Sander Memorial coverage, info on our upcoming BikeneticX race.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        training,ed sander,bike doctor cx,rockburn,feedback sports,take aim,handup gloves,jamis,all city,stone brewwing,mud,rebecca rusch,cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
