@@ -301,5 +301,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #12, 2018 wrap-up</title>
+    <link>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs12.m4a
+    </link>
+    <pubDate>Sat, 29 Dec 2018 16:54:00 GMT</pubDate>
+    <description>
+        Wrap-up of the 2018 cyclocross season.
+    </description>
+    <enclosure url="https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs12.m4a" length="3665361" type="audio/m4a"/>
+    <guid>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs12.m4a
+    </guid>
+    <itunes:duration>2:27</itunes:duration>
+    <itunes:summary>
+        Wrap-up of the 2018 cyclocross season.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        cyclocross, cxnats, louisville, kentucky, joe creason park, bluemont connection, great eskape, team bikenetic,mabra,bikenetic,mid atlantic
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
