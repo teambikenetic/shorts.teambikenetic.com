@@ -325,5 +325,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #13, chuck norris never ran phunt</title>
+    <link>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs13.m4a
+    </link>
+    <pubDate>Sun, 20 Jan 2019, 16:23:00 GMT</pubDate>
+    <description>
+        Before and after race interviews at PHUNT 25 and 50k trail race.
+    </description>
+    <enclosure url="https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs13.m4a" length="12106725" type="audio/m4a"/>
+    <guid>
+        https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs13.m4a
+    </guid>
+    <itunes:duration>6:13</itunes:duration>
+    <itunes:summary>
+        Before and after race interviews at PHUNT 25 and 50k trail race.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        team bikenetic,bikenetic,cross training, phunt, trail running, ultra running, fair hill cx, mac series, chuck norris, rocky raccoon, swedish fish, showers pass
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
