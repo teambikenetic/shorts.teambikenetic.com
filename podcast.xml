@@ -14,7 +14,7 @@ Team Bikenetic races mountain bike and cyclocross race events in the mid-Atlanti
 </description>
 <language>en-us</language>
 <copyright>Team Bikenetic copyright 2018</copyright>
-<atom:link href="https://s3.amazonaws.com/shorts.teambikenetic.com/podcast.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://shorts.teambikenetic.com/podcast.xml" rel="self" type="application/rss+xml"/>
 <lastBuildDate>Wed, 12 Sep 2018 05:00:00 GMT</lastBuildDate>
 <itunes:author>Team Bikenetic</itunes:author>
 <itunes:summary>
@@ -330,11 +330,11 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <link>
         https://shorts.teambikenetic.com/tbbs13.m4a
     </link>
-    <pubDate>Sun, 20 Jan 2019, 16:23:00 GMT</pubDate>
+    <pubDate>Sun, 20 Jan 2019 16:23:00 GMT</pubDate>
     <description>
         Before and after race interviews at PHUNT 25 and 50k trail race.
     </description>
-    <enclosure url="https://s3.amazonaws.com/shorts.teambikenetic.com/tbbs13.m4a" length="12106725" type="audio/m4a"/>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs13.m4a" length="12106725" type="audio/m4a"/>
     <guid>
         https://shorts.teambikenetic.com/tbbs13.m4a
     </guid>
