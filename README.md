@@ -45,3 +45,7 @@ Goals:
 - Team branding strength
 - Lay-up for shop related sales opportunities or skills (so and so raced their sick new wheels)
 - Lend a bit more personality to the team. We're big. FB is noisy and confusing. This might be interesting.
+
+Notes:
+
+- think about how to tie-in better for instagram (stories, or ?)
