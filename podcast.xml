@@ -349,5 +349,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #14, taylor jones on crosshairs garage races</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs14.m4a
+    </link>
+    <pubDate>Wed, 20 Feb 2019 15:58:00 GMT</pubDate>
+    <description>
+        Brief interview with Taylor about the upcoming Crosshairs Garage Races.
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs14.m4a" length="16210547" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs14.m4a
+    </guid>
+    <itunes:duration>8:30</itunes:duration>
+    <itunes:summary>
+        Brief interview with Taylor about the upcoming Crosshairs Garage Races.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        garage races,crystal city bid,crystal city,crosshairs,acme pie,java cruiser,team bikenetic,bikenetic,gravel,croatan,bikereg,dirty kitten gravel race
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
