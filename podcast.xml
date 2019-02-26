@@ -373,5 +373,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #15, croatan buck fifty: matt and gordon interviewed by casey and christine</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs15.m4a
+    </link>
+    <pubDate>Tue, 26 Feb 2019 22:58:00 GMT</pubDate>
+    <description>
+        Quick Q&A with Matt and Gordon about the Best Bike Game Ever, the Croatan Buck Fifty.
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs15.m4a" length="7391827" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs15.m4a
+    </guid>
+    <itunes:duration>20:05</itunes:duration>
+    <itunes:summary>
+        Quick Q&A with Matt and Gordon about the Best Bike Game Ever, the Croatan Buck Fifty.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        craotan,bikereg,buck fifty,best bike game ever,emerald isle,north carolina,matt hawkins,gordon wadsworth,singlespeed,ridgesupply,socks,bikenetic,team bikenetic,big green bus,hot laps,gravel
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
