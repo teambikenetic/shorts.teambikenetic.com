@@ -397,5 +397,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #16, alex harisiadis on the flower mart criterium</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs16.m4a
+    </link>
+    <pubDate>Sun, 28 Apr 2019 19:29:00 GMT</pubDate>
+    <description>
+        Quick Q&A with Alex H from BBC about The Flower Mart Criterium.
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs16.m4a" length="17659492" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs16.m4a
+    </guid>
+    <itunes:duration>8:10</itunes:duration>
+    <itunes:summary>
+        Quick Q&A with Alex H from BBC about The Flower Mart Criterium.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        fmcritbaltimore,tbbcpbbbw,leesburg baker's dozen,puppies,bikereg,team bbc,flower mart crit,bikenetic,team bikenetic
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
