@@ -421,5 +421,30 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #17, ben kristy</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs17.m4a
+    </link>
+    <pubDate>Fri, 24 May 2019 17:01:00 GMT</pubDate>
+    <description>
+        Chat with Ben Kristy about being a race photographer.
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs17.m4a" length="12571882" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs17.m4a
+    </guid>
+    <itunes:duration>11:19</itunes:duration>
+    <itunes:summary>
+        Chat with Ben Kristy about being a race photographer.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        keystone off-road,road racing,xc racing,downhill racing,adventure racing,photography,grusk,hilly billy roubaix,dirty bikeneticrit,loudoun 1725 gravel grinder,go cross,bikenetic,team bikenetic,bikereg,mirrored glasses,painface,canon,national museum of the marine corps,dominion cycling photography
+    </itunes:keywords>
+  
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
