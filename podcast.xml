@@ -442,7 +442,30 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:keywords>
         keystone off-road,road racing,xc racing,downhill racing,adventure racing,photography,grusk,hilly billy roubaix,dirty bikeneticrit,loudoun 1725 gravel grinder,go cross,bikenetic,team bikenetic,bikereg,mirrored glasses,painface,canon,national museum of the marine corps,dominion cycling photography
     </itunes:keywords>
-  
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+    <title>TB BS #18, breaking bread with mimi newcastle</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs18.m4a
+    </link>
+    <pubDate>Tue, 25 Jun 2019 13:20:00 GMT</pubDate>
+    <description>
+        Chat with Mimi Newcastle about being an official, and quick run down of cross notes with Robert Spinks.
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs18.m4a" length="25175766" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs18.m4a
+    </guid>
+    <itunes:duration>8:55</itunes:duration>
+    <itunes:summary>
+        Chat with Mimi Newcastle about being an official, and quick run down of cross notes with Robert Spinks.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        mimi newcastle,bread,robert spinks,your teammate from the internet,katie compton,potatoes,bikenetic,teambikenetic,dirty bikeneticrit,bikereg
+    </itunes:keywords>
   <itunes:explicit>no</itunes:explicit>
 </item>
 
