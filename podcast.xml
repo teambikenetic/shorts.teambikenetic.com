@@ -472,7 +472,7 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
 <item>
     <title>TB BS #19, grusk overview with travis olson</title>
     <link>
-        https://shorts.teambikenetic.com/tbbs18.m4a
+        https://shorts.teambikenetic.com/tbbs19.m4a
     </link>
     <pubDate>Tue, 2 Jul 2019 20:58:00 GMT</pubDate>
     <description>
@@ -489,6 +489,30 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
     <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
     <itunes:keywords>
         travis olson,bikewva,bonusmiles,75milesdownhill,stellarcourse,daunting,sublime,bus,gravel,mike d,grusk,bikenetic,teambikenetic,dirty bikeneticrit,bikereg
+    </itunes:keywords>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+    <title>TB BS #20, dirty bikeneticrit! with mark stahl</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs20.m4a
+    </link>
+    <pubDate>Mon, 5 Aug 2019 14:26:00 GMT</pubDate>
+    <description>
+        Interview with race director Mark Stahl about the upcoming Dirty Bikeneticrit!
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs20.m4a" length="20026516" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs20.m4a
+    </guid>
+    <itunes:duration>5:13</itunes:duration>
+    <itunes:summary>
+        Interview with race director Mark Stahl about the upcoming Dirty Bikeneticrit!
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        dirty bikeneticrit,stone brewing,flamingo,gravel,camp snyder,relay,beer pavilion,bikenetic,bikereg,teambikenetic,more,midatlantic off-road enthusiasts,nate graham,mark stahl
     </itunes:keywords>
   <itunes:explicit>no</itunes:explicit>
 </item>
