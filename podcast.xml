@@ -517,5 +517,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #21, kicking off the season with glenn stevens</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs21.m4a
+    </link>
+    <pubDate>Thu, 22 Aug 2019 11:57:00 GMT</pubDate>
+    <description>
+        Interview with MABRA president and and race director Glenn Stevens about the 2019 season.
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs20.m4a" length="21106412" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs21.m4a
+    </guid>
+    <itunes:duration>11:04</itunes:duration>
+    <itunes:summary>
+        Interview with MABRA president and and race director Glenn Stevens about the 2019 season.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        glenn stevens,mabra,sportif,reckless cross,sykelocross,teambbc,falkorburg,women's clinic,cyclocross,alex howell,mabra,usacycling,series pass,super series,aacx,south germantown,hanley wood,evelyn egizi,howard hayes,fort ritchie,paul espanol,dirty bikeneticrit
+    </itunes:keywords>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
