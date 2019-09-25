@@ -565,5 +565,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #23, spin up the super series at tacchino with scott thompson</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs23.m4a
+    </link>
+    <pubDate>Wed, 25 Sep 2019 14:22:00 GMT</pubDate>
+    <description>
+        Spin up the Super Series at Tacchino with Scott Thompson.
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs23.m4a" length="14877879" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs23.m4a
+    </guid>
+    <itunes:duration>15:04</itunes:duration>
+    <itunes:summary>
+        Spin up the Super Series at Tacchino with Scott Thompson.
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        scott thompson,tacchino,bikereg,super series,chicane,file tread,fmb,smooth,fast,twisted sisters,steps,tools,the rock,squaddra coppi,acme pie,ice,jugs of water,register early register often,teambikenetic,bikenetic,waiver
+    </itunes:keywords>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
