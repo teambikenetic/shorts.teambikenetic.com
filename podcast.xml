@@ -589,5 +589,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #24, Falkorburg Cross chat with Alex and Ashlea Gray</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs24.m4a
+    </link>
+    <pubDate>Wed, 16 Oct 2019 15:00:00 GMT</pubDate>
+    <description>
+        Falkorburg Cross chat with Alex and Ashlea Gray
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs24.m4a" length="15044153" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs24.m4a
+    </guid>
+    <itunes:duration>11:29</itunes:duration>
+    <itunes:summary>
+	Falkorburg Cross chat with Alex and Ashlea Gray
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+	falkorburg,team bbc,mt airy,watkins park,nice maintained grass,sand,swoopy,pumpkins,heated restrooms,party central,beer garden,food trucks,barriers,chris jones,brown hornet design,charm city,ian jackson,manual feed press,baltimore bicycle works,artifact coffee,kelly walker,artstar,beer cards,sscx,super series,costumes,views,nice low pressure,did anybody put air in my tires today,bikereg
+    </itunes:keywords>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
