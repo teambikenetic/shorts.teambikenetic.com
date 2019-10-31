@@ -613,5 +613,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #25, A single-speed friendly course, or, Ed Sander CX with Matt Aune</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs25.m4a
+    </link>
+    <pubDate>Thu, 31 Oct 2019 13:00:00 GMT</pubDate>
+    <description>
+        A single-speed friendly course, or, Ed Sander CX with Matt Aune
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs25.m4a" length="10280336" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs25.m4a
+    </guid>
+    <itunes:duration>5:35</itunes:duration>
+    <itunes:summary>
+        A single-speed friendly course, or, Ed Sander CX with Matt Aune
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        matt aune,buzz baker,ed sander,ed sander cx,bikereg super series,course,grass,rain,dry,gravel,lily ponds,perfect cross weather,single speed,single speed friendly course,gearing,deloitte,contes,solace beer,popcorn,team not a team,bounce house,moon bounce,kids,register early register often,bikereg,online waiver
+    </itunes:keywords>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
