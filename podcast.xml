@@ -637,5 +637,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #26, BYC Frosty Cross with Mita Vogel</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs26.m4a
+    </link>
+    <pubDate>Wed, 6 Nov 2019 18:00:00 GMT</pubDate>
+    <description>
+        BYC Frosty Cross with Mita Vogel
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs26.m4a" length="9785958" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs26.m4a
+    </guid>
+    <itunes:duration>9:57</itunes:duration>
+    <itunes:summary>
+        BYC Frosty Cross with Mita Vogel
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        frosty cross, mita vogel, byc, agricultural center, horses, pigs, goats, sheep, cistern hill, big swoopy field, off camber, defeet, socks, gross mendelsohn, bob's red mill, baltimore bicycling club, teambbc, friends of patapsco valley state park, cutlass velo, joe's bike shop, race pace bicycles, union ale, mabra, charm city cross, jay lazar, christina hosenfeld, register early register often, jeff travis, insight timing services, mabraland, charm city, ed sander cx, ncvc, south germantown cross
+    </itunes:keywords>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
