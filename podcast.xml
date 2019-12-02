@@ -709,5 +709,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #29, Sneak peak at the Bel Air Cyclocross Festival</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs29.m4a
+    </link>
+    <pubDate>Mon, 2 Dec 2019 15:00:00 GMT</pubDate>
+    <description>
+        Sneak peak at the Bel Air Cyclocross Festival
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs29.m4a" length="16447499" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs29.m4a
+    </guid>
+    <itunes:duration>10:26</itunes:duration>
+    <itunes:summary>
+        Sneak peak at the Bel Air Cyclocross Festival
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        heated tent, handups are not a crime, handup gloves, independent brewing company, heighe street band, kiddie academy kids zone, ecotone ecological restoration, humagalas, love.crust.pizza, sportif series, bacx, bel air cx festival, run up, bike doctor drop, trek bicycle traverse, singletrack, preride, tire choice, tire pressure, jamsquad, underserved youth, recovery, bikenetic, teambikenetic,
+    </itunes:keywords>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
