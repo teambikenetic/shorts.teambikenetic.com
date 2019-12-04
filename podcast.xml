@@ -733,5 +733,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #30, Twenty years of Cap Cross with Bruce and Chip</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs30.m4a
+    </link>
+    <pubDate>Mon, 2 Dec 2019 15:00:00 GMT</pubDate>
+    <description>
+        Twenty years of Cap Cross with Bruce and Chip
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs30.m4a" length="127265684" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs30.m4a
+    </guid>
+    <itunes:duration>43:44</itunes:duration>
+    <itunes:summary>
+        Twenty years of Cap Cross with Bruce and Chip
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        rev, bruce buckley, chip sovak, potomac velo club, bike lane, the bike lane, bike lane brewing, capital cross classic, bikereg cyclocross super series, lake fairfax, wakefield, trouble, prologue, vacx, mac, uci, points, mabra, bill schieken, javacruisermoco, spectacle, mid-atlantic, team not team, cowbell, tent city, photography, garage races, chute, dam, darrell parks, snow valley, mabra women, laura van gilder, bikenetic, teambikenetic
+    </itunes:keywords>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
