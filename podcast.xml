@@ -757,5 +757,29 @@ cyclocross,super series,bikeneticx,team bikenetic,bikenetic,mid atlantic,mountai
   <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+    <title>TB BS #31, Dan Doggett of PTAP designs</title>
+    <link>
+        https://shorts.teambikenetic.com/tbbs31.m4a
+    </link>
+    <pubDate>Wed, 11 Dec 2019 17:51:00 GMT</pubDate>
+    <description>
+         Dan Doggett of PTAP designs
+    </description>
+    <enclosure url="https://shorts.teambikenetic.com/tbbs31.m4a" length="19453121" type="audio/m4a"/>
+    <guid>
+        https://shorts.teambikenetic.com/tbbs31.m4a
+    </guid>
+    <itunes:duration>6:18</itunes:duration>
+    <itunes:summary>
+        Dan Doggett of PTAP designs
+    </itunes:summary>
+    <itunes:image href="https://www.teambikenetic.com/images/14890471_1272259672815678_5866772541855495393_o.jpg"/>
+    <itunes:keywords>
+        dan doggett, team bbc, mountain bike enthusiast, cyclocross, bike bags, ptap designs, boutique, small batch series, colors, baltimore, baltimore bicycle works, bodie, falkor, basketlyfe, madeinbaltimore, handmade, bodie, team rofo
+    </itunes:keywords>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
